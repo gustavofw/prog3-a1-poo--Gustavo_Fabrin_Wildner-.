@@ -1,0 +1,5 @@
+- Gustavo Fabrin Wildner / Programação III 
+
+- Descrição do projeto: Este projeto consiste em uma aplicação web desenvolvida em PHP puro, utilizando os princípios de Programação Orientada a Objetos (POO). A aplicação tem como objetivo simular um sistema simples de autenticação de usuários, permitindo o cadastro, login, visualização de uma área restrita (dashboard) e logout, com persistência de sessão e cookies, além de boas práticas de estruturação de código e segurança.
+
+- Instruções para executar localmente: Para rodar o sistema de registro de usuários, é necessário ter o PHP instalado, um navegador e então dentro da pasta 'sistema_registro_usuarios' rodar o comando php -S localhost:8000 no terminal. Após isso, vai até o seu navegador e cole a url http://localhost:8000, assim o sistema irá funcionar!
